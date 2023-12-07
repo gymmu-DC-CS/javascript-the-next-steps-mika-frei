@@ -42,3 +42,33 @@ else if (currentElement === 'E'){
   }
   return count
 }
+
+
+export function exercise04(args) {
+
+  const input = args
+  const result = []
+  let count = 1
+
+  for (let i= 0;i <input.length; i++
+  
+ 
+    export`function exercise04(args) (
+
+
+
+      const input = args
+      const result= []
+      let count = 1
+      for (let i= 0; i < input.length; i++) (
+      const currentElement = input[i]
+      I
+      if (currentElement === " ")(
+      count n count + 1
+      else if
+      surventEle
+      count
+      so nc
+      return cour
+      Git Graph
+      Suche
